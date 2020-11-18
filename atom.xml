@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-11-17T14:53:17.962Z</updated>
+  <updated>2020-11-18T09:21:04.417Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,62 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>男男女女</title>
+    <link href="http://example.com/2020/11/18/%E7%94%B7%E7%94%B7%E5%A5%B3%E5%A5%B3/"/>
+    <id>http://example.com/2020/11/18/%E7%94%B7%E7%94%B7%E5%A5%B3%E5%A5%B3/</id>
+    <published>2020-11-18T08:59:45.000Z</published>
+    <updated>2020-11-18T09:21:04.417Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2020/11/18/%E7%94%B7%E7%94%B7%E5%A5%B3%E5%A5%B3/image-20201118170005203.png" class="" title="image-20201118170005203">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;img src=&quot;/2020/11/18/%E7%94%B7%E7%94%B7%E5%A5%B3%E5%A5%B3/image-20201118170005203.png&quot; class=&quot;&quot; title=&quot;image-20201118170005203&quot;&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>分类和标签类测试</title>
+    <link href="http://example.com/2020/11/18/%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE%E7%B1%BB%E6%B5%8B%E8%AF%95/"/>
+    <id>http://example.com/2020/11/18/%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE%E7%B1%BB%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-11-18T08:49:55.000Z</published>
+    <updated>2020-11-18T08:51:18.443Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2020/11/18/%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE%E7%B1%BB%E6%B5%8B%E8%AF%95/image-20201118165115965.png" class="" title="image-20201118165115965">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;img src=&quot;/2020/11/18/%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE%E7%B1%BB%E6%B5%8B%E8%AF%95/image-20201118165115965.png&quot; class=&quot;&quot; title=&quot;</summary>
+      
+    
+    
+    
+    <category term="分类test - 文章分类" scheme="http://example.com/categories/%E5%88%86%E7%B1%BBtest-%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB/"/>
+    
+    
+    <category term="标签test - 文章标签" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BEtest-%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>图片测试二</title>
     <link href="http://example.com/2020/11/17/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95%E4%BA%8C/"/>
     <id>http://example.com/2020/11/17/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95%E4%BA%8C/</id>
     <published>2020-11-17T14:49:20.000Z</published>
-    <updated>2020-11-17T14:53:17.962Z</updated>
+    <updated>2020-11-18T08:48:16.753Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="image-20201117224942810.png" alt="image-20201117224942810"></p>]]></content>
+    <content type="html"><![CDATA[<img src="/2020/11/17/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95%E4%BA%8C/image-20201118164813680.png" class="" title="image-20201118164813680">]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;image-20201117224942810.png&quot; alt=&quot;image-20201117224942810&quot;&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;img src=&quot;/2020/11/17/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95%E4%BA%8C/image-20201118164813680.png&quot; class=&quot;&quot; title=&quot;image-20201118164813680&quot;&gt;</summary>
       
     
     
@@ -44,13 +87,12 @@
     <published>2020-11-17T14:45:50.000Z</published>
     <updated>2020-11-17T14:46:42.135Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/image-20201117224618407.png" alt="image-20201117224618407"></p>]]></content>
+    <content type="html"><![CDATA[<img src="/2020/11/17/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/image-20201117224618407.png" class="" title="image-20201117224618407">]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/image-20201117224618407.png&quot; alt=&quot;image-20201117224618407&quot;&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;img src=&quot;/2020/11/17/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/image-20201117224618407.png&quot; class=&quot;&quot; title=&quot;image-20201117224618407&quot;&gt;</summary>
       
     
     
@@ -78,14 +120,6 @@
     <published>2020-11-17T09:16:18.000Z</published>
     <updated>2020-11-17T09:16:45.148Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="%E4%BD%A0%E5%A5%BD.assets/image-20201117171642548.png" alt="image-20201117171642548"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;%E4%BD%A0%E5%A5%BD.assets/image-20201117171642548.png&quot; alt=&quot;image-20201117171642548&quot;&gt;&lt;/p&gt;
-</summary>
-      
     
     
     
